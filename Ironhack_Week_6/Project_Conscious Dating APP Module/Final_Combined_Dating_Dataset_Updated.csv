@@ -1,0 +1,501 @@
+Time,Age,Gender,UsedApps,UsageFreq,LookingFor,UsageDuration,GhostingExp,OverallExp,NoAppReason,IntentToUse,MeetingFreq,DatesPerMatch,MeetingLoc,Punctuality,Comfort,MeetAgain,ReviewTime,ReflectBeforeSwipe,NoShow,OpenToQR,BehaviorPromt,ConsciousModule
+2023-01-01,30-40,Female,Yes,Occasionally,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,Yes,No,No,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,40-50,Male,No,Frequently,Short-term or casual relationship,1-6 months,Ghosting,Negative,Have been in a relationship since I was a minor,No,Rarely,1,Depends,Yes,Somewhat,Yes,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,25-30,Male,No,Rarely,Long-term relationship,more than 1 year,Both,Negative,Not interested,No,Frequently,More than 3,Public,No,Somewhat,Maybe,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,Yes,No,Maybe,Minutes,No,No,No,No,No
+2023-01-01,40-50,Female,Yes,Occasionally,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Somewhat,No,Seconds,No,No,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,Yes,Somewhat,Yes,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,30-40,Female,No,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Depends,No,No,Yes,Seconds,No,No,No,Neutral,No
+2023-01-01,30-40,Female,Yes,Frequently,Short-term or casual relationship,1-6 months,Neither,Negative,Not interested,No,Occasionally,More than 3,Private,Yes,No,Yes,Minutes,No,No,No,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,Somewhat,Maybe,Seconds,Yes,Yes,No,Yes,No
+2023-01-01,40-50,Female,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,No,Somewhat,No,Minutes,No,Yes,No,Neutral,No
+2023-01-01,25-30,Male,Yes,Rarely,I don't know yet,more than 1 year,Both,Very negative,Not interested,No,Frequently,2-3,Depends,Yes,Yes,Yes,Seconds,No,No,Yes,Yes,No
+2023-01-01,30-40,Female,No,Frequently,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Depends,Yes,Somewhat,No,Minutes,No,No,No,No,Yes
+2023-01-01,40-50,Female,Yes,Frequently,I don't know yet,more than 1 year,Both,Positive,Not interested,No,Rarely,2-3,Public,No,No,No,Seconds,Yes,No,No,No,Yes
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,1,Private,Yes,Yes,Yes,Minutes,Yes,No,No,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,more than 1 year,Being ghosted,Positive,Prefer real connection over online dating,No,Rarely,1,Depends,No,Somewhat,Yes,Seconds,No,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Male,Yes,Rarely,I don't know yet,1-6 months,Neither,Negative,Not interested,No,Rarely,More than 3,Depends,No,No,No,Seconds,Yes,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Female,No,Rarely,Short-term or casual relationship,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,No,No,Yes,Minutes,Yes,No,Yes,No,No
+2023-01-01,40-50,Male,Yes,Frequently,I don't know yet,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Occasionally,1,Public,No,No,Maybe,Minutes,No,Yes,Yes,Yes,No
+2023-01-01,30-40,Male,No,Occasionally,Long-term relationship,more than 1 year,Neither,Positive,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,Yes,Yes,Minutes,No,No,No,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Frequently,Long-term relationship,more than 1 year,Being ghosted,Very negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,No,Maybe,Minutes,No,No,No,Yes,Yes
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,more than 1 year,Neither,Positive,Prefer real connection over online dating,No,Frequently,1,Private,Yes,Somewhat,Maybe,Seconds,No,Yes,No,Yes,No
+2023-01-01,25-30,Female,No,Rarely,Long-term relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,Somewhat,No,Seconds,Yes,Yes,Yes,Neutral,No
+2023-01-01,40-50,Male,No,Occasionally,Long-term relationship,1-6 months,Neither,Positive,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,No,Yes,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,1,Private,No,No,Maybe,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,30-40,Female,No,Frequently,I don't know yet,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,1,Public,Yes,No,No,Minutes,Yes,Yes,Yes,Yes,Yes
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,No,Somewhat,Maybe,Minutes,No,Yes,No,No,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,No,No,Maybe,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,more than 1 year,Ghosting,Negative,Not interested,No,Rarely,More than 3,Public,No,No,Maybe,Seconds,No,Yes,Yes,Neutral,Yes
+2023-01-01,30-40,Female,No,Frequently,Short-term or casual relationship,more than 1 year,Both,Very negative,Not interested,No,Occasionally,1,Private,No,Somewhat,No,Minutes,No,No,Yes,No,No
+2023-01-01,40-50,Male,Yes,Frequently,Long-term relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,1,Public,No,No,Maybe,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Depends,No,Yes,No,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Occasionally,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,No,Seconds,No,Yes,No,No,Yes
+2023-01-01,40-50,Female,No,Occasionally,I don't know yet,1-6 months,Both,Very negative,Have been in a relationship since I was a minor,No,Occasionally,More than 3,Private,No,Somewhat,No,Minutes,Yes,Yes,Yes,No,Yes
+2023-01-01,40-50,Female,Yes,Occasionally,I don't know yet,more than 1 year,Both,Positive,Not interested,No,Rarely,2-3,Public,Yes,Yes,Yes,Seconds,No,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Male,No,Rarely,Long-term relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Somewhat,Maybe,Minutes,No,No,No,Neutral,No
+2023-01-01,40-50,Male,Yes,Frequently,Short-term or casual relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Public,Yes,No,Maybe,Minutes,No,No,No,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Frequently,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,Somewhat,No,Seconds,No,Yes,No,Neutral,No
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Yes,Maybe,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,40-50,Female,No,Frequently,I don't know yet,1-6 months,Neither,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Depends,Yes,Somewhat,Maybe,Minutes,Yes,No,Yes,No,Yes
+2023-01-01,40-50,Male,No,Rarely,Long-term relationship,1-6 months,Both,Positive,Have been in a relationship since I was a minor,No,Rarely,1,Depends,No,Yes,Maybe,Seconds,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,Somewhat,Yes,Seconds,Yes,Yes,No,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,Maybe,Seconds,Yes,No,No,Yes,No
+2023-01-01,25-30,Female,Yes,Occasionally,Short-term or casual relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,1,Public,Yes,No,Maybe,Seconds,Yes,Yes,No,Yes,No
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,No,Maybe,Seconds,Yes,No,No,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,I don't know yet,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Depends,Yes,No,Maybe,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Rarely,1,Private,No,Somewhat,No,Minutes,No,Yes,No,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Frequently,I don't know yet,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Rarely,2-3,Private,Yes,Somewhat,Maybe,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Rarely,Long-term relationship,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Yes,Maybe,Minutes,No,No,No,Yes,Yes
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,No,No,Minutes,No,Yes,Yes,No,No
+2023-01-01,40-50,Male,No,Rarely,I don't know yet,more than 1 year,Neither,Negative,Not interested,No,Occasionally,1,Depends,No,No,Maybe,Minutes,No,No,Yes,Yes,Yes
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,No,No,No,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Frequently,1,Public,No,Somewhat,Yes,Minutes,Yes,No,No,Yes,Yes
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,No,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Negative,Not interested,No,Frequently,1,Depends,Yes,Somewhat,No,Seconds,No,No,Yes,Yes,Yes
+2023-01-01,25-30,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Frequently,More than 3,Depends,Yes,No,Yes,Minutes,Yes,Yes,No,Neutral,Yes
+2023-01-01,30-40,Male,No,Occasionally,Long-term relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,No,Yes,Maybe,Minutes,No,Yes,Yes,Yes,No
+2023-01-01,40-50,Female,No,Occasionally,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,No,No,Maybe,Minutes,No,No,Yes,No,Yes
+2023-01-01,30-40,Female,Yes,Rarely,Short-term or casual relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,No,Yes,Seconds,Yes,Yes,Yes,No,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,Somewhat,Maybe,Seconds,Yes,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,No,No,Minutes,No,Yes,No,Yes,Yes
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,more than 1 year,Being ghosted,Negative,Have been in a relationship since I was a minor,No,Occasionally,More than 3,Public,Yes,Somewhat,Yes,Seconds,Yes,Yes,No,Yes,Yes
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,No,Yes,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,25-30,Female,No,Occasionally,I don't know yet,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Rarely,1,Public,No,Somewhat,No,Seconds,Yes,Yes,No,No,Yes
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Frequently,1,Public,No,Yes,Maybe,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,30-40,Female,No,Occasionally,Long-term relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,1,Public,Yes,Somewhat,Yes,Seconds,No,No,No,No,No
+2023-01-01,40-50,Male,No,Rarely,I don't know yet,1-6 months,Ghosting,Negative,Have been in a relationship since I was a minor,No,Frequently,2-3,Private,Yes,No,No,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,Somewhat,Maybe,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,40-50,Female,Yes,Frequently,Short-term or casual relationship,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Frequently,1,Private,No,No,Yes,Minutes,Yes,Yes,No,Yes,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,more than 1 year,Ghosting,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Private,Yes,No,Yes,Seconds,Yes,No,No,Yes,No
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Both,Very negative,Not interested,No,Frequently,More than 3,Public,No,Yes,Yes,Minutes,Yes,No,No,Yes,No
+2023-01-01,25-30,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,Yes,No,Yes,Seconds,No,No,No,No,No
+2023-01-01,30-40,Female,No,Frequently,Long-term relationship,1-6 months,Both,Very negative,Not interested,No,Rarely,1,Private,No,Somewhat,Maybe,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,30-40,Female,No,Occasionally,I don't know yet,1-6 months,Being ghosted,Negative,Have been in a relationship since I was a minor,No,Frequently,2-3,Public,Yes,Yes,No,Seconds,Yes,Yes,No,No,No
+2023-01-01,25-30,Female,No,Frequently,Long-term relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Depends,Yes,Somewhat,No,Seconds,No,No,Yes,Yes,Yes
+2023-01-01,25-30,Male,No,Frequently,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,No,Yes,Maybe,Seconds,No,No,No,Yes,Yes
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Rarely,More than 3,Public,No,No,No,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Yes,No,Minutes,No,No,Yes,Neutral,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Ghosting,Negative,Have been in a relationship since I was a minor,No,Occasionally,2-3,Public,No,No,No,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Not interested,No,Frequently,1,Public,Yes,Yes,Maybe,Minutes,Yes,Yes,No,Neutral,No
+2023-01-01,25-30,Male,Yes,Rarely,Long-term relationship,1-6 months,Both,Very negative,Have been in a relationship since I was a minor,No,Occasionally,2-3,Public,No,Yes,Maybe,Seconds,No,No,Yes,Yes,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,No,Somewhat,Maybe,Minutes,Yes,Yes,Yes,No,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,No,Yes,Seconds,No,No,Yes,No,No
+2023-01-01,25-30,Female,No,Occasionally,I don't know yet,1-6 months,Neither,Very negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,No,Yes,Yes,Seconds,Yes,No,No,Yes,No
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Somewhat,Maybe,Seconds,No,Yes,No,Neutral,Yes
+2023-01-01,25-30,Male,No,Rarely,Long-term relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,Somewhat,No,Minutes,Yes,Yes,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Depends,Yes,No,Maybe,Minutes,No,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Depends,Yes,No,Yes,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,30-40,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,Yes,No,Yes,Minutes,Yes,No,Yes,Yes,No
+2023-01-01,25-30,Male,Yes,Rarely,Long-term relationship,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,No,Maybe,Seconds,No,Yes,No,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,Long-term relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,No,Yes,Yes,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Public,No,Yes,Maybe,Minutes,No,No,Yes,Yes,Yes
+2023-01-01,40-50,Male,No,Rarely,Long-term relationship,1-6 months,Both,Very negative,Have been in a relationship since I was a minor,No,Occasionally,More than 3,Public,No,Somewhat,Maybe,Minutes,No,No,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,1,Depends,Yes,Somewhat,Maybe,Seconds,No,No,Yes,Yes,No
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,Somewhat,Maybe,Seconds,No,No,No,Neutral,Yes
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Depends,No,No,Maybe,Minutes,No,No,Yes,Yes,Yes
+2023-01-01,30-40,Female,No,Rarely,Short-term or casual relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,Yes,Yes,Minutes,Yes,Yes,No,Yes,No
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Have been in a relationship since I was a minor,No,Frequently,More than 3,Private,Yes,No,Yes,Minutes,Yes,Yes,Yes,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Public,No,No,Maybe,Seconds,Yes,Yes,No,No,Yes
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,2-3,Public,Yes,Somewhat,No,Seconds,No,No,Yes,No,No
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Private,Yes,Yes,Yes,Seconds,No,No,No,No,Yes
+2023-01-01,40-50,Male,No,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,Somewhat,No,Minutes,No,Yes,Yes,No,Yes
+2023-01-01,40-50,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Private,No,No,Yes,Minutes,Yes,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Public,Yes,Somewhat,No,Minutes,No,No,Yes,Yes,No
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,No,Somewhat,Yes,Seconds,Yes,Yes,Yes,Yes,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Rarely,2-3,Private,Yes,No,Maybe,Minutes,No,No,Yes,No,No
+2023-01-01,40-50,Male,Yes,Occasionally,Short-term or casual relationship,more than 1 year,Both,Positive,Have been in a relationship since I was a minor,No,Frequently,1,Public,No,Somewhat,Maybe,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Frequently,1,Private,Yes,Somewhat,No,Seconds,No,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,Long-term relationship,more than 1 year,Being ghosted,Negative,Have been in a relationship since I was a minor,No,Occasionally,1,Depends,Yes,No,No,Seconds,No,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Ghosting,Positive,Prefer real connection over online dating,No,Frequently,2-3,Private,No,Somewhat,No,Minutes,Yes,No,No,No,Yes
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,Yes,No,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,30-40,Female,No,Rarely,Long-term relationship,more than 1 year,Both,Negative,Not interested,No,Occasionally,1,Private,No,Somewhat,No,Minutes,Yes,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Frequently,Short-term or casual relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,Somewhat,No,Minutes,Yes,No,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,Somewhat,Yes,Seconds,Yes,Yes,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,No,Somewhat,Yes,Minutes,Yes,No,Yes,Yes,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,Yes,No,Maybe,Minutes,No,Yes,Yes,Yes,Yes
+2023-01-01,30-40,Female,Yes,Occasionally,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,No,Somewhat,Yes,Seconds,Yes,No,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Occasionally,I don't know yet,1-6 months,Being ghosted,Negative,Have been in a relationship since I was a minor,No,Occasionally,2-3,Private,No,No,No,Minutes,No,No,No,Yes,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Ghosting,Positive,Prefer real connection over online dating,No,Frequently,1,Private,Yes,No,Maybe,Minutes,No,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Female,No,Rarely,Short-term or casual relationship,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Rarely,1,Private,Yes,Somewhat,Maybe,Minutes,No,No,No,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Frequently,Long-term relationship,more than 1 year,Both,Positive,Not interested,No,Occasionally,More than 3,Private,Yes,Somewhat,No,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,40-50,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,No,No,Minutes,No,No,Yes,Yes,Yes
+2023-01-01,25-30,Female,No,Occasionally,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,Somewhat,Maybe,Minutes,No,Yes,No,Neutral,No
+2023-01-01,40-50,Male,No,Rarely,I don't know yet,more than 1 year,Being ghosted,Positive,Not interested,No,Rarely,More than 3,Public,No,Somewhat,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Occasionally,1,Public,No,Somewhat,No,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,25-30,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,1,Depends,Yes,No,Maybe,Minutes,Yes,No,Yes,No,No
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,1,Public,No,Somewhat,No,Seconds,Yes,Yes,No,Neutral,Yes
+2023-01-01,40-50,Female,No,Occasionally,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,Yes,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,Yes,Somewhat,Maybe,Minutes,Yes,Yes,No,Neutral,Yes
+2023-01-01,30-40,Male,No,Occasionally,I don't know yet,1-6 months,Both,Negative,Not interested,No,Occasionally,1,Private,Yes,No,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,Yes,No,Minutes,No,No,Yes,Neutral,No
+2023-01-01,30-40,Female,Yes,Frequently,I don't know yet,more than 1 year,Being ghosted,Positive,Not interested,No,Frequently,More than 3,Depends,Yes,No,Maybe,Seconds,Yes,Yes,Yes,No,Yes
+2023-01-01,40-50,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Ghosting,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,No,Maybe,Seconds,Yes,No,No,Neutral,No
+2023-01-01,30-40,Female,No,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,No,No,Yes,Seconds,No,No,No,Neutral,No
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Neither,Positive,Prefer real connection over online dating,No,Occasionally,1,Depends,Yes,No,Maybe,Seconds,Yes,No,Yes,Yes,No
+2023-01-01,25-30,Female,Yes,Frequently,Long-term relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,2-3,Public,No,No,Maybe,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,Somewhat,Maybe,Seconds,No,Yes,No,Neutral,No
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,Yes,No,Maybe,Seconds,Yes,Yes,Yes,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,1-6 months,Ghosting,Negative,Not interested,No,Rarely,More than 3,Private,Yes,Somewhat,No,Minutes,Yes,No,No,Yes,No
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,Yes,No,Yes,Seconds,Yes,Yes,No,Yes,No
+2023-01-01,40-50,Female,Yes,Frequently,I don't know yet,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Frequently,1,Private,Yes,Somewhat,No,Minutes,Yes,Yes,Yes,No,No
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,Yes,Yes,Minutes,Yes,Yes,No,Yes,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,Yes,Yes,Seconds,No,Yes,Yes,No,No
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,1-6 months,Being ghosted,Positive,Not interested,No,Frequently,1,Public,Yes,Yes,Yes,Minutes,Yes,No,No,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Public,Yes,Yes,Yes,Seconds,No,Yes,Yes,No,Yes
+2023-01-01,30-40,Male,Yes,Frequently,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,No,No,Seconds,No,No,No,Neutral,No
+2023-01-01,30-40,Female,Yes,Occasionally,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,No,No,No,Seconds,No,No,Yes,Yes,Yes
+2023-01-01,40-50,Female,Yes,Rarely,Long-term relationship,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,Yes,Yes,Seconds,Yes,Yes,No,No,No
+2023-01-01,40-50,Female,Yes,Occasionally,I don't know yet,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,Somewhat,Yes,Minutes,No,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Frequently,Short-term or casual relationship,1-6 months,Neither,Very negative,Have been in a relationship since I was a minor,No,Occasionally,2-3,Private,No,Somewhat,Maybe,Seconds,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,40-50,Female,No,Occasionally,I don't know yet,1-6 months,Both,Negative,Not interested,No,Occasionally,2-3,Private,Yes,No,Maybe,Minutes,Yes,No,Yes,Yes,No
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Have been in a relationship since I was a minor,No,Occasionally,1,Public,No,No,Maybe,Seconds,Yes,No,No,Yes,No
+2023-01-01,40-50,Female,Yes,Occasionally,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,2-3,Public,No,No,No,Minutes,Yes,No,Yes,Yes,Yes
+2023-01-01,30-40,Female,Yes,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,No,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,25-30,Female,Yes,Frequently,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,No,Maybe,Seconds,No,No,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,No,Maybe,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,40-50,Male,Yes,Occasionally,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,No,Yes,Minutes,Yes,No,Yes,No,No
+2023-01-01,25-30,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Not interested,No,Rarely,1,Private,No,No,Yes,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,No,Rarely,Short-term or casual relationship,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,No,Yes,No,Minutes,Yes,No,Yes,No,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,Short-term or casual relationship,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Rarely,1,Public,Yes,No,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Frequently,1,Private,No,No,Yes,Minutes,Yes,Yes,No,No,Yes
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,2-3,Depends,No,No,Maybe,Minutes,Yes,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,No,Occasionally,I don't know yet,more than 1 year,Ghosting,Positive,Prefer real connection over online dating,No,Frequently,2-3,Private,No,Yes,Yes,Seconds,Yes,Yes,Yes,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,more than 1 year,Being ghosted,Negative,Not interested,No,Occasionally,2-3,Public,No,No,Yes,Minutes,Yes,Yes,No,Yes,No
+2023-01-01,40-50,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Somewhat,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Private,No,No,Maybe,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Male,Yes,Occasionally,Short-term or casual relationship,more than 1 year,Being ghosted,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Depends,Yes,No,No,Seconds,Yes,Yes,No,Yes,No
+2023-01-01,30-40,Female,No,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,No,No,Minutes,No,No,No,Neutral,Yes
+2023-01-01,40-50,Female,No,Frequently,Short-term or casual relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,Yes,Somewhat,Maybe,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Public,No,No,Maybe,Seconds,Yes,No,Yes,No,No
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,No,Somewhat,No,Seconds,Yes,Yes,Yes,Yes,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,Yes,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Not interested,No,Frequently,1,Depends,No,Somewhat,Yes,Seconds,Yes,Yes,Yes,Yes,No
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,No,Somewhat,No,Seconds,Yes,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Neither,Positive,Prefer real connection over online dating,No,Rarely,2-3,Public,Yes,Somewhat,No,Minutes,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,1,Depends,No,Somewhat,Maybe,Seconds,Yes,Yes,No,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,Yes,Yes,No,Seconds,No,No,No,No,Yes
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,Somewhat,Yes,Seconds,Yes,No,No,Neutral,Yes
+2023-01-01,30-40,Male,Yes,Frequently,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,1,Private,No,No,Yes,Minutes,Yes,Yes,No,No,No
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,more than 1 year,Being ghosted,Very negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,Yes,Seconds,No,Yes,Yes,Yes,Yes
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,2-3,Private,Yes,No,Maybe,Seconds,Yes,No,No,Yes,No
+2023-01-01,30-40,Female,Yes,Frequently,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,No,Yes,Minutes,No,Yes,No,Neutral,Yes
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Public,Yes,Somewhat,Maybe,Seconds,No,Yes,No,Neutral,Yes
+2023-01-01,40-50,Female,Yes,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,1,Public,Yes,No,Yes,Seconds,No,No,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Both,Negative,Not interested,No,Frequently,2-3,Private,Yes,No,Maybe,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,Yes,Yes,Maybe,Minutes,Yes,No,No,Neutral,No
+2023-01-01,40-50,Male,No,Frequently,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,Yes,No,No,Minutes,No,No,Yes,Neutral,No
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,1-6 months,Neither,Negative,Not interested,No,Occasionally,More than 3,Private,No,Somewhat,No,Minutes,No,No,Yes,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Frequently,Short-term or casual relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Somewhat,Maybe,Seconds,No,Yes,Yes,Yes,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Neither,Negative,Have been in a relationship since I was a minor,No,Rarely,More than 3,Private,No,No,Maybe,Minutes,No,No,No,Yes,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Occasionally,1,Depends,Yes,Somewhat,Yes,Minutes,No,Yes,No,Neutral,No
+2023-01-01,40-50,Male,No,Rarely,Long-term relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Private,No,No,Maybe,Minutes,No,Yes,No,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,2-3,Public,Yes,No,Yes,Seconds,No,Yes,Yes,No,Yes
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Occasionally,More than 3,Private,No,Somewhat,Yes,Minutes,Yes,Yes,Yes,Yes,No
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,Somewhat,No,Minutes,No,No,No,No,No
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,No,Maybe,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,1,Depends,Yes,No,Maybe,Seconds,Yes,No,No,No,No
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,1,Private,No,No,Yes,Minutes,Yes,No,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Rarely,Long-term relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,1,Depends,No,Yes,No,Seconds,No,Yes,No,Neutral,No
+2023-01-01,25-30,Female,No,Occasionally,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,No,Yes,No,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Yes,No,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,40-50,Male,Yes,Rarely,Short-term or casual relationship,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,1,Private,No,No,No,Minutes,Yes,Yes,No,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,Long-term relationship,more than 1 year,Being ghosted,Very negative,Not interested,No,Occasionally,More than 3,Private,No,Somewhat,Yes,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,25-30,Male,No,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,No,Yes,No,Seconds,No,No,Yes,Neutral,No
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,1-6 months,Being ghosted,Positive,Have been in a relationship since I was a minor,No,Rarely,2-3,Private,Yes,No,No,Minutes,No,No,No,Neutral,No
+2023-01-01,25-30,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Positive,Not interested,No,Occasionally,2-3,Depends,No,No,Maybe,Minutes,Yes,No,Yes,Neutral,Yes
+2023-01-01,40-50,Male,No,Frequently,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,1,Depends,Yes,Somewhat,No,Minutes,Yes,No,Yes,Yes,No
+2023-01-01,25-30,Female,No,Frequently,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,Yes,Maybe,Seconds,No,Yes,Yes,No,No
+2023-01-01,30-40,Female,Yes,Occasionally,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,Yes,Somewhat,No,Seconds,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,30-40,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,Yes,Yes,Minutes,Yes,No,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Depends,No,No,Maybe,Seconds,Yes,Yes,Yes,No,Yes
+2023-01-01,25-30,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Rarely,1,Depends,Yes,No,Maybe,Seconds,No,Yes,Yes,No,No
+2023-01-01,40-50,Male,No,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Private,Yes,No,Yes,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,No,Maybe,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,30-40,Male,Yes,Occasionally,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,1,Depends,Yes,Somewhat,Yes,Minutes,Yes,No,Yes,Neutral,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,Somewhat,Maybe,Minutes,No,Yes,No,Neutral,No
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Not interested,No,Rarely,1,Depends,No,Somewhat,Maybe,Minutes,No,No,No,No,Yes
+2023-01-01,25-30,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,More than 3,Depends,No,No,No,Minutes,Yes,No,Yes,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Rarely,Short-term or casual relationship,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,1,Public,Yes,Yes,No,Seconds,No,Yes,No,Neutral,No
+2023-01-01,25-30,Female,No,Occasionally,Long-term relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,1,Private,No,Somewhat,Maybe,Seconds,Yes,No,Yes,No,No
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Yes,Maybe,Minutes,Yes,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Depends,Yes,Yes,No,Seconds,No,No,Yes,Neutral,No
+2023-01-01,40-50,Male,No,Rarely,I don't know yet,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Rarely,2-3,Depends,No,Somewhat,Maybe,Minutes,Yes,No,No,Neutral,No
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Private,No,Yes,No,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,No,Frequently,I don't know yet,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Rarely,More than 3,Public,No,Yes,No,Seconds,No,No,Yes,Neutral,No
+2023-01-01,40-50,Male,No,Rarely,Long-term relationship,1-6 months,Both,Negative,Not interested,No,Frequently,1,Private,Yes,Somewhat,Maybe,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,more than 1 year,Ghosting,Positive,Have been in a relationship since I was a minor,No,Frequently,1,Public,Yes,Yes,Yes,Minutes,No,No,Yes,Neutral,No
+2023-01-01,25-30,Male,Yes,Frequently,Long-term relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,No,Yes,Maybe,Minutes,Yes,Yes,No,No,No
+2023-01-01,25-30,Male,Yes,Frequently,I don't know yet,1-6 months,Both,Positive,Not interested,No,Occasionally,2-3,Private,No,No,No,Seconds,No,No,No,No,No
+2023-01-01,25-30,Male,Yes,Frequently,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,2-3,Depends,No,No,No,Minutes,Yes,Yes,No,Neutral,No
+2023-01-01,25-30,Female,No,Frequently,I don't know yet,1-6 months,Being ghosted,Positive,Not interested,No,Occasionally,More than 3,Depends,Yes,No,Maybe,Seconds,Yes,Yes,Yes,No,No
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,No,No,No,Seconds,No,No,Yes,No,No
+2023-01-01,40-50,Female,Yes,Frequently,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Public,No,Somewhat,No,Minutes,Yes,Yes,No,No,Yes
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,Yes,No,Minutes,No,No,No,No,Yes
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,Somewhat,Yes,Minutes,Yes,Yes,Yes,Yes,No
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,Yes,Somewhat,Maybe,Minutes,No,No,No,Yes,Yes
+2023-01-01,25-30,Female,No,Rarely,Short-term or casual relationship,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,No,Maybe,Minutes,Yes,Yes,Yes,Neutral,No
+2023-01-01,30-40,Female,Yes,Frequently,Long-term relationship,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,Yes,No,Maybe,Minutes,Yes,No,Yes,Yes,No
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,more than 1 year,Being ghosted,Negative,Have been in a relationship since I was a minor,No,Occasionally,More than 3,Public,No,Somewhat,No,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,40-50,Female,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Private,No,No,Maybe,Seconds,No,Yes,Yes,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Depends,Yes,No,No,Seconds,No,No,No,Yes,Yes
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,2-3,Private,No,Yes,No,Minutes,No,No,Yes,Yes,Yes
+2023-01-01,40-50,Female,Yes,Frequently,I don't know yet,more than 1 year,Both,Positive,Have been in a relationship since I was a minor,No,Occasionally,1,Private,Yes,Yes,Maybe,Minutes,Yes,Yes,No,Neutral,Yes
+2023-01-01,25-30,Female,No,Occasionally,I don't know yet,more than 1 year,Being ghosted,Very negative,Have been in a relationship since I was a minor,No,Occasionally,2-3,Depends,Yes,No,No,Minutes,No,No,Yes,Yes,No
+2023-01-01,25-30,Male,No,Frequently,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,1,Depends,No,No,Yes,Minutes,No,No,Yes,Neutral,Yes
+2023-01-01,25-30,Male,No,Frequently,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Depends,Yes,Somewhat,Yes,Seconds,Yes,No,Yes,Yes,Yes
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,1,Depends,No,No,No,Seconds,No,No,No,Neutral,No
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,No,Yes,Seconds,No,Yes,No,Neutral,No
+2023-01-01,25-30,Male,No,Frequently,Short-term or casual relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,No,Maybe,Minutes,No,No,Yes,Yes,No
+2023-01-01,40-50,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Being ghosted,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,No,No,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,30-40,Female,Yes,Frequently,I don't know yet,more than 1 year,Ghosting,Very negative,Prefer real connection over online dating,No,Rarely,2-3,Private,Yes,Yes,Maybe,Seconds,Yes,No,No,Neutral,Yes
+2023-01-01,25-30,Female,No,Rarely,Long-term relationship,more than 1 year,Being ghosted,Negative,Not interested,No,Frequently,2-3,Private,Yes,Somewhat,Maybe,Seconds,No,No,Yes,Yes,No
+2023-01-01,40-50,Male,No,Frequently,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Public,Yes,Yes,No,Seconds,Yes,No,No,Yes,No
+2023-01-01,25-30,Male,Yes,Occasionally,Long-term relationship,more than 1 year,Being ghosted,Very negative,Prefer real connection over online dating,No,Rarely,1,Private,Yes,Somewhat,Yes,Minutes,Yes,Yes,Yes,Yes,Yes
+2023-01-01,30-40,Female,Yes,Frequently,I don't know yet,more than 1 year,Ghosting,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Private,Yes,Somewhat,No,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Rarely,1,Depends,No,Yes,No,Minutes,No,Yes,No,No,No
+2023-01-01,25-30,Male,Yes,Rarely,Short-term or casual relationship,more than 1 year,Both,Negative,Not interested,No,Occasionally,1,Public,Yes,Somewhat,No,Minutes,No,No,Yes,No,Yes
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,No,Yes,Yes,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,30-40,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Ghosting,Very negative,Prefer real connection over online dating,No,Frequently,1,Public,No,Yes,Maybe,Minutes,No,No,No,Yes,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,more than 1 year,Both,Positive,Not interested,No,Occasionally,More than 3,Depends,Yes,No,Maybe,Minutes,Yes,Yes,No,Yes,No
+2023-01-01,25-30,Male,No,Rarely,Short-term or casual relationship,1-6 months,Neither,Negative,Have been in a relationship since I was a minor,No,Frequently,2-3,Private,No,No,No,Minutes,Yes,No,Yes,Yes,Yes
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Negative,Not interested,No,Occasionally,2-3,Private,No,Somewhat,Maybe,Seconds,Yes,Yes,Yes,No,Yes
+2023-01-01,25-30,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,Yes,No,Maybe,Minutes,Yes,No,No,Neutral,Yes
+2023-01-01,25-30,Male,No,Occasionally,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Depends,No,No,Maybe,Minutes,No,No,No,Yes,No
+2023-01-01,40-50,Female,Yes,Occasionally,Short-term or casual relationship,more than 1 year,Neither,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Public,Yes,Yes,Maybe,Minutes,No,No,No,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Occasionally,Short-term or casual relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,1,Private,No,Yes,No,Seconds,Yes,No,No,Neutral,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,No,Somewhat,Maybe,Seconds,Yes,No,Yes,Yes,No
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,Yes,Yes,Yes,Seconds,Yes,Yes,Yes,No,No
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Private,Yes,Somewhat,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Not interested,No,Occasionally,1,Private,No,No,No,Minutes,No,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,No,No,No,Minutes,No,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Being ghosted,Positive,Prefer real connection over online dating,No,Frequently,2-3,Public,Yes,No,Yes,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Public,No,Somewhat,No,Minutes,Yes,No,No,Yes,No
+2023-01-01,40-50,Female,Yes,Occasionally,Short-term or casual relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,1,Private,Yes,No,No,Seconds,Yes,No,No,Neutral,No
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,No,Yes,Minutes,Yes,No,No,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Depends,Yes,No,Yes,Minutes,No,Yes,Yes,No,No
+2023-01-01,30-40,Female,Yes,Occasionally,Short-term or casual relationship,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,No,Maybe,Minutes,Yes,No,Yes,Yes,Yes
+2023-01-01,40-50,Female,Yes,Frequently,Long-term relationship,more than 1 year,Both,Negative,Not interested,No,Rarely,More than 3,Public,No,Somewhat,Maybe,Seconds,Yes,Yes,Yes,Yes,No
+2023-01-01,25-30,Male,No,Occasionally,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Depends,Yes,No,No,Seconds,No,No,No,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,No,Yes,Yes,Seconds,No,No,Yes,No,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,More than 3,Private,Yes,Yes,Maybe,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,25-30,Male,No,Frequently,I don't know yet,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Rarely,1,Private,Yes,Somewhat,Yes,Seconds,Yes,Yes,Yes,No,No
+2023-01-01,25-30,Female,No,Frequently,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Rarely,2-3,Private,Yes,Yes,Maybe,Minutes,Yes,Yes,No,Yes,No
+2023-01-01,30-40,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Neither,Positive,Prefer real connection over online dating,No,Occasionally,2-3,Public,Yes,Yes,Maybe,Minutes,No,No,Yes,No,No
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,Yes,Yes,Seconds,Yes,Yes,Yes,No,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,No,No,Maybe,Minutes,No,Yes,No,Yes,No
+2023-01-01,40-50,Female,Yes,Occasionally,I don't know yet,more than 1 year,Neither,Negative,Not interested,No,Rarely,2-3,Depends,Yes,No,Yes,Seconds,Yes,No,No,No,Yes
+2023-01-01,30-40,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Ghosting,Positive,Prefer real connection over online dating,No,Rarely,1,Private,Yes,Somewhat,Maybe,Seconds,Yes,Yes,No,Neutral,No
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Yes,Yes,Minutes,Yes,No,Yes,Yes,No
+2023-01-01,40-50,Female,Yes,Frequently,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,No,Somewhat,Maybe,Minutes,No,Yes,Yes,No,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,No,No,Minutes,No,No,No,Neutral,Yes
+2023-01-01,40-50,Female,No,Frequently,Short-term or casual relationship,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,No,No,Minutes,Yes,No,Yes,Yes,Yes
+2023-01-01,30-40,Female,No,Frequently,Long-term relationship,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,Somewhat,Maybe,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,Somewhat,Yes,Minutes,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Occasionally,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,No,Yes,Minutes,No,No,No,Yes,No
+2023-01-01,40-50,Male,No,Occasionally,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,Yes,No,Yes,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,No,Maybe,Seconds,Yes,Yes,No,No,No
+2023-01-01,25-30,Male,No,Frequently,I don't know yet,1-6 months,Neither,Positive,Prefer real connection over online dating,No,Occasionally,1,Depends,No,Yes,No,Minutes,Yes,No,Yes,No,No
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Private,No,Somewhat,No,Minutes,No,Yes,No,Yes,Yes
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,No,No,Maybe,Minutes,Yes,No,No,Yes,Yes
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Somewhat,Maybe,Seconds,Yes,No,No,Yes,No
+2023-01-01,40-50,Female,Yes,Frequently,I don't know yet,1-6 months,Ghosting,Positive,Prefer real connection over online dating,No,Frequently,1,Depends,Yes,Yes,No,Seconds,No,No,Yes,No,No
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,more than 1 year,Being ghosted,Positive,Not interested,No,Frequently,1,Private,Yes,Somewhat,No,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,25-30,Female,No,Occasionally,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,Somewhat,Maybe,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Frequently,1,Private,Yes,Somewhat,No,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,30-40,Female,No,Frequently,Short-term or casual relationship,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Rarely,More than 3,Public,Yes,Yes,Yes,Seconds,No,Yes,No,No,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,No,Yes,Maybe,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,Long-term relationship,1-6 months,Being ghosted,Negative,Not interested,No,Frequently,1,Depends,Yes,Somewhat,No,Seconds,No,No,Yes,No,No
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,1,Private,Yes,Yes,No,Minutes,No,Yes,No,Yes,No
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,Somewhat,Maybe,Minutes,No,No,Yes,Yes,No
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,1-6 months,Ghosting,Positive,Prefer real connection over online dating,No,Frequently,1,Depends,No,No,No,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Frequently,Short-term or casual relationship,1-6 months,Ghosting,Positive,Not interested,No,Frequently,2-3,Public,Yes,Somewhat,Maybe,Seconds,Yes,Yes,No,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,Somewhat,Yes,Seconds,Yes,Yes,Yes,No,Yes
+2023-01-01,25-30,Male,No,Occasionally,I don't know yet,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,Yes,Yes,Seconds,Yes,No,No,No,No
+2023-01-01,30-40,Male,No,Occasionally,Long-term relationship,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,Somewhat,No,Seconds,No,Yes,No,No,Yes
+2023-01-01,30-40,Male,Yes,Rarely,I don't know yet,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,Yes,Yes,Maybe,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,No,No,Maybe,Minutes,No,No,Yes,Yes,No
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,1-6 months,Neither,Negative,Not interested,No,Frequently,1,Private,No,Somewhat,Yes,Minutes,Yes,No,Yes,No,No
+2023-01-01,30-40,Male,Yes,Occasionally,Long-term relationship,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Frequently,1,Private,Yes,No,No,Seconds,No,Yes,No,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Yes,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,Yes,Maybe,Minutes,Yes,Yes,No,No,Yes
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Frequently,2-3,Depends,Yes,Yes,Yes,Seconds,Yes,No,Yes,Yes,No
+2023-01-01,40-50,Female,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Private,Yes,Yes,No,Minutes,No,No,No,Neutral,No
+2023-01-01,30-40,Female,No,Occasionally,I don't know yet,1-6 months,Ghosting,Positive,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,No,Minutes,No,No,No,Neutral,No
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,2-3,Private,No,No,Maybe,Minutes,Yes,Yes,Yes,Neutral,No
+2023-01-01,25-30,Male,Yes,Occasionally,Long-term relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Somewhat,Maybe,Seconds,Yes,No,Yes,No,No
+2023-01-01,40-50,Female,No,Rarely,Short-term or casual relationship,more than 1 year,Neither,Very negative,Prefer real connection over online dating,No,Frequently,More than 3,Depends,Yes,Yes,Maybe,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Neither,Positive,Not interested,No,Occasionally,More than 3,Depends,No,Somewhat,Yes,Minutes,Yes,Yes,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Occasionally,I don't know yet,1-6 months,Neither,Negative,Not interested,No,Occasionally,2-3,Depends,Yes,No,Maybe,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,25-30,Female,No,Rarely,Short-term or casual relationship,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,1,Private,Yes,No,Maybe,Minutes,No,Yes,Yes,Yes,Yes
+2023-01-01,30-40,Male,No,Occasionally,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Depends,No,Yes,Maybe,Seconds,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,Yes,No,Maybe,Seconds,No,Yes,Yes,No,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,Yes,Yes,Maybe,Seconds,No,Yes,No,Neutral,Yes
+2023-01-01,40-50,Female,Yes,Rarely,Short-term or casual relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,2-3,Depends,No,Somewhat,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Female,No,Occasionally,Short-term or casual relationship,1-6 months,Both,Very negative,Not interested,No,Rarely,More than 3,Depends,Yes,Yes,No,Seconds,No,No,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,Somewhat,Maybe,Minutes,Yes,No,No,No,Yes
+2023-01-01,40-50,Female,Yes,Rarely,Long-term relationship,1-6 months,Being ghosted,Positive,Have been in a relationship since I was a minor,No,Frequently,1,Private,No,Somewhat,Yes,Minutes,No,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,Long-term relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,1,Depends,No,Somewhat,Yes,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,No,Somewhat,Maybe,Seconds,No,No,No,Yes,Yes
+2023-01-01,40-50,Male,No,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Frequently,1,Depends,Yes,Somewhat,Yes,Seconds,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,No,No,Maybe,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,more than 1 year,Both,Negative,Not interested,No,Rarely,More than 3,Private,No,Somewhat,No,Minutes,Yes,Yes,No,Yes,No
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Somewhat,No,Seconds,No,Yes,Yes,No,Yes
+2023-01-01,30-40,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,No,Maybe,Seconds,No,Yes,No,Neutral,No
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,Somewhat,Yes,Seconds,No,No,No,Yes,Yes
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Depends,Yes,Somewhat,Yes,Minutes,No,Yes,No,No,No
+2023-01-01,30-40,Male,No,Frequently,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,No,Yes,Minutes,No,Yes,No,No,Yes
+2023-01-01,40-50,Female,Yes,Frequently,I don't know yet,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,Somewhat,Yes,Minutes,No,No,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Rarely,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,1,Private,Yes,Somewhat,Yes,Seconds,Yes,No,Yes,No,No
+2023-01-01,30-40,Female,Yes,Occasionally,I don't know yet,1-6 months,Both,Positive,Not interested,No,Occasionally,2-3,Private,Yes,No,Maybe,Minutes,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Female,No,Frequently,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Public,Yes,Somewhat,Maybe,Minutes,No,Yes,No,Neutral,No
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,Somewhat,Yes,Minutes,No,No,Yes,No,Yes
+2023-01-01,25-30,Male,Yes,Rarely,Long-term relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,2-3,Private,Yes,Somewhat,No,Minutes,Yes,No,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Frequently,I don't know yet,more than 1 year,Ghosting,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,Yes,No,Maybe,Seconds,Yes,Yes,Yes,Yes,No
+2023-01-01,25-30,Male,Yes,Frequently,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Yes,Yes,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,No,No,Seconds,No,No,No,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,More than 3,Public,No,Somewhat,No,Minutes,Yes,No,Yes,No,No
+2023-01-01,25-30,Female,Yes,Occasionally,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Depends,Yes,Somewhat,Maybe,Minutes,No,No,Yes,Yes,No
+2023-01-01,25-30,Male,No,Rarely,Short-term or casual relationship,1-6 months,Ghosting,Positive,Prefer real connection over online dating,No,Rarely,1,Private,Yes,No,No,Minutes,Yes,No,Yes,No,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,No,Yes,Yes,Seconds,Yes,Yes,No,Yes,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Depends,Yes,No,Yes,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,Somewhat,Yes,Seconds,No,Yes,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Frequently,Short-term or casual relationship,1-6 months,Being ghosted,Very negative,Have been in a relationship since I was a minor,No,Occasionally,More than 3,Public,Yes,No,Maybe,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,30-40,Male,No,Occasionally,I don't know yet,1-6 months,Ghosting,Negative,Not interested,No,Occasionally,2-3,Depends,No,Somewhat,Maybe,Minutes,Yes,Yes,Yes,No,No
+2023-01-01,30-40,Male,Yes,Rarely,I don't know yet,1-6 months,Neither,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Public,Yes,No,No,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Male,No,Occasionally,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Private,Yes,Somewhat,No,Seconds,Yes,Yes,Yes,Yes,No
+2023-01-01,25-30,Male,No,Rarely,Short-term or casual relationship,1-6 months,Neither,Very negative,Prefer real connection over online dating,No,Rarely,1,Depends,No,Somewhat,Yes,Seconds,No,Yes,Yes,Neutral,No
+2023-01-01,40-50,Female,No,Rarely,Short-term or casual relationship,1-6 months,Neither,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Public,No,Yes,Yes,Minutes,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,more than 1 year,Both,Negative,Not interested,No,Rarely,More than 3,Private,No,No,Yes,Minutes,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,No,No,Minutes,Yes,No,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,No,Maybe,Minutes,No,No,No,Yes,Yes
+2023-01-01,30-40,Female,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,1,Depends,No,No,No,Minutes,Yes,No,No,Yes,Yes
+2023-01-01,25-30,Male,Yes,Frequently,I don't know yet,1-6 months,Both,Very negative,Have been in a relationship since I was a minor,No,Frequently,More than 3,Public,No,Yes,No,Seconds,No,No,Yes,Yes,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,Short-term or casual relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Somewhat,Yes,Seconds,Yes,Yes,No,Neutral,No
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,No,No,Seconds,Yes,Yes,No,Yes,Yes
+2023-01-01,25-30,Female,Yes,Frequently,Short-term or casual relationship,1-6 months,Both,Positive,Not interested,No,Frequently,1,Depends,Yes,No,Maybe,Minutes,No,Yes,Yes,Yes,No
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,more than 1 year,Neither,Positive,Not interested,No,Occasionally,More than 3,Depends,No,Somewhat,Maybe,Minutes,Yes,No,No,No,No
+2023-01-01,30-40,Male,No,Occasionally,Short-term or casual relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,No,No,Maybe,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Male,No,Frequently,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Depends,No,No,Maybe,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Public,No,No,Yes,Minutes,No,No,Yes,No,No
+2023-01-01,25-30,Male,Yes,Rarely,Short-term or casual relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Occasionally,1,Public,No,Yes,No,Minutes,Yes,Yes,Yes,Yes,No
+2023-01-01,40-50,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,1,Private,No,No,Yes,Seconds,No,No,Yes,Yes,No
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,No,No,Seconds,No,No,Yes,Yes,Yes
+2023-01-01,25-30,Female,Yes,Frequently,I don't know yet,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Public,Yes,No,No,Minutes,No,Yes,Yes,Yes,Yes
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Not interested,No,Occasionally,2-3,Private,Yes,Somewhat,No,Seconds,Yes,No,No,Neutral,Yes
+2023-01-01,40-50,Female,Yes,Occasionally,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,No,Yes,Yes,Minutes,Yes,No,No,No,No
+2023-01-01,30-40,Male,Yes,Rarely,Short-term or casual relationship,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,2-3,Public,Yes,No,Maybe,Minutes,No,No,Yes,Yes,No
+2023-01-01,25-30,Male,Yes,Rarely,Long-term relationship,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Somewhat,No,Minutes,No,No,No,Yes,Yes
+2023-01-01,30-40,Male,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,2-3,Public,Yes,Yes,Yes,Minutes,No,Yes,Yes,Yes,Yes
+2023-01-01,25-30,Female,Yes,Frequently,Long-term relationship,more than 1 year,Ghosting,Very negative,Prefer real connection over online dating,No,Rarely,2-3,Public,Yes,Yes,Maybe,Minutes,Yes,No,No,Neutral,Yes
+2023-01-01,30-40,Female,Yes,Frequently,Long-term relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Frequently,2-3,Public,No,Yes,Maybe,Seconds,No,Yes,Yes,Yes,No
+2023-01-01,25-30,Female,Yes,Occasionally,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Somewhat,Yes,Seconds,No,No,No,Neutral,Yes
+2023-01-01,25-30,Female,No,Frequently,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,No,Yes,Seconds,No,No,Yes,No,No
+2023-01-01,30-40,Female,No,Rarely,Short-term or casual relationship,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,No,No,Maybe,Minutes,Yes,No,No,Neutral,Yes
+2023-01-01,30-40,Male,No,Frequently,I don't know yet,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,No,Yes,Yes,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,25-30,Female,No,Frequently,Long-term relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,Yes,No,No,Seconds,Yes,No,Yes,No,Yes
+2023-01-01,40-50,Female,Yes,Occasionally,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Public,Yes,Yes,No,Minutes,Yes,No,Yes,Neutral,Yes
+2023-01-01,40-50,Female,Yes,Occasionally,Short-term or casual relationship,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,Yes,Yes,Maybe,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,40-50,Female,No,Frequently,I don't know yet,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Rarely,1,Public,Yes,Somewhat,No,Minutes,No,No,Yes,Yes,No
+2023-01-01,40-50,Female,Yes,Frequently,I don't know yet,more than 1 year,Neither,Positive,Not interested,No,Occasionally,More than 3,Public,No,Somewhat,No,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,more than 1 year,Both,Very negative,Have been in a relationship since I was a minor,No,Frequently,1,Depends,Yes,Yes,Yes,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,Yes,No,Maybe,Minutes,No,Yes,Yes,Yes,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,1,Depends,Yes,Somewhat,Yes,Minutes,Yes,No,No,No,No
+2023-01-01,25-30,Male,No,Rarely,Long-term relationship,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,No,Yes,Seconds,Yes,Yes,Yes,Yes,No
+2023-01-01,25-30,Male,Yes,Rarely,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Rarely,1,Public,No,No,Yes,Minutes,Yes,No,No,Yes,Yes
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,1,Private,No,No,Maybe,Minutes,Yes,No,No,Yes,Yes
+2023-01-01,25-30,Female,Yes,Frequently,I don't know yet,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Rarely,1,Private,No,Somewhat,Maybe,Minutes,Yes,No,No,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Rarely,More than 3,Public,No,Somewhat,No,Minutes,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,more than 1 year,Both,Positive,Not interested,No,Occasionally,1,Depends,Yes,Yes,Maybe,Seconds,Yes,No,No,Neutral,Yes
+2023-01-01,25-30,Male,Yes,Rarely,I don't know yet,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Frequently,2-3,Depends,No,No,No,Seconds,Yes,Yes,No,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Depends,Yes,Yes,Maybe,Seconds,Yes,Yes,Yes,Yes,Yes
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Depends,No,No,No,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,1-6 months,Neither,Negative,Have been in a relationship since I was a minor,No,Occasionally,1,Public,Yes,No,Yes,Minutes,No,No,Yes,Yes,Yes
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,1-6 months,Ghosting,Positive,Have been in a relationship since I was a minor,No,Frequently,More than 3,Depends,Yes,Somewhat,Yes,Minutes,No,No,No,No,Yes
+2023-01-01,25-30,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,Somewhat,Yes,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,1,Private,No,No,Yes,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Depends,Yes,Somewhat,Yes,Seconds,No,No,Yes,Neutral,No
+2023-01-01,40-50,Male,Yes,Rarely,Short-term or casual relationship,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,No,Yes,Seconds,No,No,Yes,Neutral,No
+2023-01-01,40-50,Female,No,Frequently,Long-term relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Depends,Yes,Somewhat,No,Seconds,No,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,1,Depends,No,Somewhat,No,Minutes,No,Yes,No,No,No
+2023-01-01,25-30,Male,Yes,Frequently,Short-term or casual relationship,1-6 months,Being ghosted,Positive,Prefer real connection over online dating,No,Rarely,2-3,Public,No,No,No,Seconds,Yes,No,No,Yes,No
+2023-01-01,25-30,Female,No,Rarely,Long-term relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,1,Public,Yes,Somewhat,No,Minutes,No,No,Yes,Yes,Yes
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,more than 1 year,Being ghosted,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,No,Yes,No,Minutes,Yes,Yes,No,Neutral,No
+2023-01-01,40-50,Male,No,Occasionally,Short-term or casual relationship,more than 1 year,Ghosting,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,No,Maybe,Minutes,Yes,No,Yes,Yes,Yes
+2023-01-01,25-30,Male,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Depends,Yes,Yes,Yes,Seconds,No,Yes,No,Yes,Yes
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,more than 1 year,Both,Very negative,Have been in a relationship since I was a minor,No,Frequently,1,Depends,No,No,Yes,Seconds,No,Yes,Yes,No,No
+2023-01-01,40-50,Male,Yes,Frequently,Short-term or casual relationship,1-6 months,Both,Negative,Not interested,No,Occasionally,More than 3,Private,Yes,Somewhat,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,25-30,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Public,No,Somewhat,No,Minutes,No,Yes,Yes,No,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,I don't know yet,1-6 months,Being ghosted,Very negative,Have been in a relationship since I was a minor,No,Rarely,More than 3,Public,Yes,Yes,Yes,Minutes,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Male,Yes,Rarely,Long-term relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,Somewhat,Yes,Minutes,No,No,No,No,No
+2023-01-01,40-50,Male,Yes,Occasionally,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Frequently,1,Public,Yes,No,Yes,Minutes,Yes,Yes,Yes,No,No
+2023-01-01,30-40,Male,Yes,Occasionally,Long-term relationship,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Rarely,More than 3,Depends,Yes,No,Maybe,Seconds,No,Yes,Yes,Yes,Yes
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,1-6 months,Being ghosted,Negative,Not interested,No,Frequently,1,Public,No,Somewhat,No,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,30-40,Male,Yes,Frequently,I don't know yet,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Public,Yes,Somewhat,Maybe,Minutes,Yes,Yes,Yes,Yes,No
+2023-01-01,25-30,Male,No,Rarely,I don't know yet,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Public,No,Somewhat,Maybe,Minutes,No,No,No,Neutral,Yes
+2023-01-01,40-50,Male,Yes,Rarely,Long-term relationship,1-6 months,Neither,Negative,Not interested,No,Rarely,1,Private,No,Somewhat,No,Minutes,Yes,No,Yes,No,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,more than 1 year,Both,Very negative,Have been in a relationship since I was a minor,No,Frequently,2-3,Depends,Yes,Yes,Yes,Minutes,No,No,Yes,No,Yes
+2023-01-01,30-40,Male,Yes,Occasionally,Short-term or casual relationship,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Frequently,2-3,Public,Yes,No,No,Minutes,No,Yes,No,No,No
+2023-01-01,30-40,Female,Yes,Frequently,I don't know yet,more than 1 year,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,Somewhat,Maybe,Minutes,Yes,No,Yes,Yes,Yes
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,2-3,Private,No,No,No,Seconds,No,No,No,Yes,No
+2023-01-01,30-40,Male,Yes,Frequently,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Frequently,1,Private,No,No,Yes,Seconds,Yes,Yes,Yes,Yes,No
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,2-3,Private,Yes,No,No,Seconds,Yes,No,No,No,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,2-3,Public,No,Yes,No,Minutes,Yes,Yes,No,Yes,Yes
+2023-01-01,30-40,Male,Yes,Frequently,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,Somewhat,Maybe,Minutes,No,No,Yes,Neutral,No
+2023-01-01,30-40,Female,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,Yes,Yes,No,Seconds,No,Yes,Yes,Yes,Yes
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Private,No,Somewhat,No,Minutes,Yes,No,Yes,Neutral,No
+2023-01-01,30-40,Male,Yes,Rarely,I don't know yet,1-6 months,Neither,Positive,Not interested,No,Rarely,1,Public,Yes,Somewhat,No,Minutes,Yes,No,Yes,Yes,Yes
+2023-01-01,30-40,Female,No,Occasionally,Short-term or casual relationship,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,Yes,No,Minutes,No,Yes,No,Neutral,Yes
+2023-01-01,30-40,Male,No,Frequently,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Rarely,More than 3,Depends,No,No,Maybe,Minutes,Yes,Yes,No,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Rarely,1,Private,No,Somewhat,No,Minutes,No,No,Yes,No,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Both,Negative,Not interested,No,Occasionally,More than 3,Depends,Yes,No,No,Minutes,No,Yes,Yes,Neutral,No
+2023-01-01,25-30,Female,Yes,Frequently,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,No,Yes,Minutes,Yes,No,No,Yes,No
+2023-01-01,25-30,Male,No,Occasionally,I don't know yet,more than 1 year,Neither,Very negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,Somewhat,No,Minutes,No,Yes,No,Yes,No
+2023-01-01,25-30,Female,No,Occasionally,I don't know yet,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Public,Yes,Yes,Maybe,Seconds,No,No,No,No,Yes
+2023-01-01,25-30,Female,Yes,Rarely,Long-term relationship,more than 1 year,Neither,Very negative,Prefer real connection over online dating,No,Frequently,1,Depends,No,No,Maybe,Seconds,Yes,No,No,Neutral,No
+2023-01-01,25-30,Male,Yes,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,2-3,Depends,Yes,Somewhat,Maybe,Minutes,Yes,No,Yes,No,Yes
+2023-01-01,30-40,Male,Yes,Occasionally,Short-term or casual relationship,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,Yes,Somewhat,Maybe,Minutes,No,No,No,Neutral,No
+2023-01-01,40-50,Female,No,Rarely,Long-term relationship,more than 1 year,Neither,Negative,Have been in a relationship since I was a minor,No,Occasionally,1,Public,No,Somewhat,No,Seconds,No,No,No,Neutral,No
+2023-01-01,30-40,Female,No,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Frequently,More than 3,Public,No,No,No,Seconds,Yes,No,No,No,Yes
+2023-01-01,40-50,Female,No,Frequently,Short-term or casual relationship,more than 1 year,Ghosting,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Private,No,Yes,Maybe,Seconds,No,No,No,Neutral,No
+2023-01-01,25-30,Female,No,Rarely,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,Yes,Yes,Yes,Minutes,Yes,Yes,No,Neutral,Yes
+2023-01-01,40-50,Male,No,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,Yes,Somewhat,No,Seconds,No,Yes,Yes,Neutral,Yes
+2023-01-01,25-30,Female,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,Yes,No,Maybe,Minutes,Yes,Yes,No,No,Yes
+2023-01-01,40-50,Female,No,Rarely,I don't know yet,1-6 months,Neither,Negative,Not interested,No,Occasionally,2-3,Public,Yes,Yes,Maybe,Minutes,No,Yes,Yes,Yes,Yes
+2023-01-01,40-50,Female,Yes,Frequently,Long-term relationship,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Rarely,More than 3,Depends,Yes,Somewhat,No,Minutes,Yes,Yes,Yes,Yes,No
+2023-01-01,40-50,Female,Yes,Frequently,Long-term relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Frequently,1,Public,No,Somewhat,No,Minutes,Yes,No,Yes,No,Yes
+2023-01-01,40-50,Female,Yes,Rarely,Long-term relationship,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,Somewhat,Maybe,Seconds,Yes,Yes,No,Yes,Yes
+2023-01-01,25-30,Male,Yes,Occasionally,Long-term relationship,more than 1 year,Both,Positive,Have been in a relationship since I was a minor,No,Occasionally,1,Public,No,No,Yes,Minutes,Yes,Yes,Yes,No,No
+2023-01-01,25-30,Male,No,Frequently,I don't know yet,1-6 months,Ghosting,Very negative,Prefer real connection over online dating,No,Frequently,2-3,Public,Yes,Yes,Maybe,Minutes,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,40-50,Female,Yes,Occasionally,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Rarely,1,Depends,No,Somewhat,No,Seconds,No,No,Yes,Neutral,Yes
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,1,Private,No,No,Maybe,Seconds,Yes,No,Yes,Yes,No
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,1-6 months,Being ghosted,Very negative,Prefer real connection over online dating,No,Rarely,2-3,Depends,Yes,Yes,Yes,Minutes,No,No,Yes,No,No
+2023-01-01,30-40,Female,Yes,Frequently,I don't know yet,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Occasionally,1,Private,Yes,No,Maybe,Seconds,No,Yes,Yes,No,No
+2023-01-01,30-40,Male,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Private,No,No,No,Seconds,No,No,No,Yes,No
+2023-01-01,30-40,Female,Yes,Rarely,I don't know yet,more than 1 year,Ghosting,Positive,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,No,Yes,Seconds,No,Yes,Yes,No,Yes
+2023-01-01,40-50,Male,No,Rarely,I don't know yet,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Occasionally,2-3,Private,No,Yes,Maybe,Seconds,Yes,No,Yes,Neutral,Yes
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Public,No,No,No,Seconds,Yes,Yes,Yes,No,Yes
+2023-01-01,30-40,Male,Yes,Frequently,I don't know yet,1-6 months,Both,Very negative,Prefer real connection over online dating,No,Occasionally,1,Depends,Yes,Yes,Maybe,Seconds,No,No,No,No,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Rarely,1,Public,Yes,Somewhat,No,Seconds,Yes,No,Yes,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,I don't know yet,more than 1 year,Both,Negative,Not interested,No,Rarely,2-3,Private,Yes,No,Maybe,Seconds,Yes,Yes,Yes,Neutral,No
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Both,Positive,Not interested,No,Occasionally,2-3,Depends,No,Somewhat,Maybe,Minutes,Yes,Yes,Yes,Yes,No
+2023-01-01,40-50,Female,Yes,Frequently,Long-term relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Frequently,1,Private,No,No,Yes,Seconds,No,Yes,No,Neutral,No
+2023-01-01,40-50,Male,No,Rarely,Short-term or casual relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Rarely,2-3,Private,Yes,Somewhat,Yes,Minutes,Yes,No,Yes,Neutral,No
+2023-01-01,25-30,Female,No,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Public,No,No,Maybe,Seconds,Yes,Yes,No,Neutral,Yes
+2023-01-01,30-40,Female,Yes,Occasionally,Short-term or casual relationship,more than 1 year,Both,Positive,Prefer real connection over online dating,No,Rarely,2-3,Public,Yes,Somewhat,Yes,Minutes,No,No,No,Yes,Yes
+2023-01-01,30-40,Male,No,Rarely,Long-term relationship,more than 1 year,Being ghosted,Negative,Prefer real connection over online dating,No,Occasionally,2-3,Public,No,Somewhat,Yes,Seconds,No,Yes,No,Neutral,Yes
+2023-01-01,30-40,Male,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,More than 3,Depends,No,Somewhat,No,Seconds,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,more than 1 year,Both,Very negative,Prefer real connection over online dating,No,Rarely,2-3,Depends,Yes,Somewhat,Maybe,Minutes,Yes,Yes,Yes,Yes,Yes
+2023-01-01,40-50,Female,No,Frequently,I don't know yet,1-6 months,Both,Positive,Prefer real connection over online dating,No,Occasionally,More than 3,Private,Yes,Somewhat,Maybe,Seconds,Yes,No,No,Neutral,No
+2023-01-01,30-40,Female,No,Rarely,Short-term or casual relationship,1-6 months,Ghosting,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,Yes,Yes,Seconds,Yes,Yes,No,Neutral,No
+2023-01-01,25-30,Male,No,Frequently,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,Yes,No,No,Seconds,Yes,No,No,No,No
+2023-01-01,25-30,Male,Yes,Occasionally,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Depends,Yes,Somewhat,Maybe,Seconds,No,No,No,Neutral,No
+2023-01-01,40-50,Female,Yes,Rarely,Short-term or casual relationship,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Rarely,More than 3,Private,Yes,Somewhat,Maybe,Seconds,Yes,Yes,Yes,No,No
+2023-01-01,30-40,Female,No,Rarely,I don't know yet,more than 1 year,Neither,Negative,Prefer real connection over online dating,No,Rarely,More than 3,Public,No,Yes,Yes,Seconds,Yes,Yes,No,Yes,Yes
+2023-01-01,30-40,Male,No,Rarely,Short-term or casual relationship,1-6 months,Both,Negative,Have been in a relationship since I was a minor,No,Frequently,2-3,Depends,No,Yes,No,Minutes,Yes,Yes,Yes,Yes,No
+2023-01-01,40-50,Male,Yes,Rarely,I don't know yet,more than 1 year,Neither,Positive,Prefer real connection over online dating,No,Frequently,More than 3,Private,Yes,Somewhat,Maybe,Minutes,Yes,No,No,Neutral,No
+2023-01-01,25-30,Female,Yes,Rarely,I don't know yet,1-6 months,Both,Negative,Prefer real connection over online dating,No,Occasionally,1,Public,No,Yes,Maybe,Seconds,Yes,Yes,Yes,Neutral,Yes
+2023-01-01,40-50,Female,Yes,Occasionally,Short-term or casual relationship,1-6 months,Neither,Negative,Prefer real connection over online dating,No,Frequently,2-3,Public,No,No,Yes,Seconds,Yes,Yes,No,Yes,Yes
+2023-01-01,30-40,Female,Yes,Rarely,Long-term relationship,more than 1 year,Neither,Negative,Not interested,No,Rarely,More than 3,Public,Yes,No,Yes,Minutes,Yes,Yes,Yes,Yes,No
+2023-01-01,25-30,Female,No,Rarely,Short-term or casual relationship,more than 1 year,Both,Negative,Have been in a relationship since I was a minor,No,Occasionally,2-3,Depends,No,Yes,Yes,Seconds,Yes,No,No,Yes,Yes
+2023-01-01,30-40,Male,Yes,Occasionally,I don't know yet,more than 1 year,Ghosting,Positive,Prefer real connection over online dating,No,Rarely,2-3,Depends,No,Yes,Yes,Minutes,No,Yes,No,Neutral,Yes
